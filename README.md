@@ -43,6 +43,14 @@ This repo reflects *real commodity trading research*, not general ML experimenta
 
 ---
 
+## Disclaimer
+
+This repository reflects independent research into commodity trading signals using public data sources.
+
+All models are built for personal exploration of market behavior and are based exclusively on publicly available information (e.g., EIA reports, AER, exchange data, and news headlines).
+
+This work is not affiliated with or endorsed by any employer, and is intended as a personal project at the intersection of market fundamentals and machine learning.
+
 ## Contact
 
 - LinkedIn: [blainehodder](https://www.linkedin.com/in/blainehodder/)
