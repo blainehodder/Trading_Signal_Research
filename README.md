@@ -33,7 +33,7 @@ This repository contains applied research projects for building quantitative sig
 - Replace naive regression with probabilistic signal generation
 - Build a robust, explainable signal portfolio
 - Bridge physical market knowledge with machine learning tools
-- Publish models of public data for front-office quant strategists, PMs or dresearchers 
+- Publish models of public data for front-office quant strategists, PMs or researchers 
 
 ---
 
