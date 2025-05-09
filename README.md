@@ -16,6 +16,12 @@ This repository contains applied research projects for building quantitative sig
 ### • NLP Sentiment Signal (Coming Soon)
 > Natural language processing pipeline to extract directional sentiment from oil-related headlines and assess impact on spreads and flat price.
 
+### Fixed Price Signal
+> Regression and classification models for predicting directional pressure in Brent nd WTI fixed pricing. Includes lag features, volatility, moving averages, exploratory fundamental factors, positioning data.
+
+### Spread Price Signal
+> Regression and classification models for predicting directional pressure in Brent and WTI spread pricing. Includes lag features, volatility, moving averages, exploratory fundamental factors, positioning data.
+
 ---
 
 ## Methodology
